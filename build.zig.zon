@@ -1,0 +1,13 @@
+.{
+    .name = .kat,
+    .version = "0.0.1",
+    .fingerprint = 0x904d1210fb6be0da,
+    .minimum_zig_version = "0.15.2",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+    },
+}
